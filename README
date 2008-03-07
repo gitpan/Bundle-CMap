@@ -1,7 +1,7 @@
-Bundle::CMap version 0.16
+Bundle::CMap version 1.0.1
 =========================
 
-This is a bundle of modules required by CMap
+This is a bundle of modules required by CMap version 1.0
 
 INSTALLATION
 
@@ -25,7 +25,7 @@ The actual CMap code is not located on CPAN.  To find out about the latest versi
 
 COPYRIGHT AND LICENCE
 
-Copyright (c) 2006 Cold Spring Harbor Laboratory
+Copyright (c) 2006-8 Cold Spring Harbor Laboratory
 
 Licenced under the terms of Perl.
 

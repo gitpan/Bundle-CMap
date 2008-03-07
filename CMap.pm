@@ -1,6 +1,6 @@
 package Bundle::CMap;
 
-$VERSION = '0.16';
+$VERSION = '1.0.1';
 
 1;
 
@@ -50,7 +50,7 @@ Digest::MD5 2.36
 
 File::Temp 0.16
 
-Filesys::Df 0.90
+Filesys::DfPortable
 
 GD 2.32
 
